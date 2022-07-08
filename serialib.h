@@ -1,3 +1,5 @@
+// Forked by wuwbobo2021, naming style changed.
+
 /*!
 \file    Serial.h
 \brief   Header file of the class Serial. This class is used for communication over a serial device.
